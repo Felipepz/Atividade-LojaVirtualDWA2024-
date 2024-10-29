@@ -1,6 +1,6 @@
 # Loja Virtual
 
-(22 de outubro de 2024)
+Dupla: Felipe Moreira da Paz , Eduardo Siquiera Souto 
 
 Loja virtual desenvolvida durante a disciplina de Desenvolvimento Web Avançado no Ifes Cachoeiro.
 
